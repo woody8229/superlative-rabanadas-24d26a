@@ -1,0 +1,15 @@
+This Netlify site reuses images from the Flutter repo.
+Copied into netlify_site/:
+- favicon.png (from web/favicon.png)
+- plateshift_logo.png (from assets/images/plateshift_logo.png)
+- plateshift_icon.png (from assets/images/plateshift_icon.png)
+- hero_phone.jpg (from assets/images/spaghetti_null_1775346826924.jpg)
+- shot_import.jpg (from assets/images/chef_null_1775190591214.jpg)
+- shot_shift.jpg (from assets/images/quinoa_bowl_null_1775178114320.jpg)
+- shot_grocery.jpg (from assets/images/woman_smiling_null_1775178117053.jpg)
+- shot_nutrition.jpg (from assets/images/grilled_salmon_null_1775178110286.jpg)
+- avatar_1.jpg (from assets/images/chef_portrait_null_1775190591928.jpg)
+- avatar_2.jpg (from assets/images/chef_hat1.png)  (will need conversion to jpg manually if desired)
+- avatar_3.jpg (from assets/images/chef_hat_null_1775190654345.jpg)
+
+If you want true in-app screenshots, replace hero_phone/shot_* with screenshots exported from iOS/Android.
