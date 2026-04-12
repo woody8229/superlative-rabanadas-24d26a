@@ -240,7 +240,7 @@ p.lead{
 .heroCardInner{padding:20px}
 
 .heroMock{
-  max-height:600px;          /* 👈 controls how tall it can get */
+  max-height:80vh;              /* 👈 key fix */
   border-radius:22px;
   background:linear-gradient(180deg,rgba(255,255,255,.10),rgba(255,255,255,.05));
   border:1px solid rgba(255,255,255,.14);
