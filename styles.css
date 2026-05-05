@@ -555,4 +555,6 @@ p.lead{
   .container{width:min(var(--container),calc(100% - 32px))}
   h1{font-size:38px}
   .navLinks{display:none}
+  .navInner{justify-content:center;flex-wrap:wrap}
+  .ctaRow{width:100%;justify-content:center}
 }
